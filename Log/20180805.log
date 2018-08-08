@@ -1,0 +1,5 @@
+2018-08-05 21:46:19,406 - translog.py[42 - DEBUG - nihaoya]
+2018-08-05 21:46:44,632 - translog.py[42 - DEBUG - nihaoya]
+2018-08-05 21:57:58,704 - translog.py[53 - DEBUG - nihaoya]
+2018-08-05 22:49:45,041 - fork1.py[line:28] - DEBUG: i am new process 
+2018-08-05 22:49:45,043 - fork1.py[line:33] - DEBUG: i am new process
